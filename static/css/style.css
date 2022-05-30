@@ -1,0 +1,186 @@
+h1 {
+  font-family: 'Caveat', cursive;
+}
+
+h2, h3, h4 {
+  font-family: 'Zen Maru Gothic', sans-serif;
+  font-weight: 300;
+}
+
+p {
+  font-family: 'Zen Maru Gothic', sans-serif;
+  font-weight: 500;
+  font-size: 1.25rem;
+}
+
+.h1-class {
+  font-size: 4rem;
+  color: #06113C;
+  padding-bottom: 50px;
+}
+
+/* navigation */
+#title {
+  background-color: #06113C;
+  padding: 5rem;
+}
+
+#brand {
+  font-family: 'Caveat', cursive;
+  font-size: 3rem;
+}
+
+#link {
+  font-family: 'Zen Maru Gothic', sans-serif;
+  font-weight: 400;
+  font-size: 1.5rem;
+  margin: 0 20px;
+}
+
+#link:hover {
+  text-decoration: underline;
+}
+
+/* introduction */
+
+#name-intro {
+  margin: 0;
+  padding: 50px 70px;
+}
+
+.font-intro {
+  color: #FF8C32;
+  font-size: 10vw;
+  text-align: center;
+}
+
+.font-sub-intro {
+  font-size: 3vw;
+  padding: 70px 0 0;
+  font-weight: 400;
+}
+
+/* About-me */
+
+#about-me {
+  background-color: #DDDDDD;
+  padding: 70px 20%;
+  text-align: center;
+}
+
+#img-1{
+  border-style: solid;
+  border-width: 10px;
+  border-color: #06113C;
+  width: 200px;
+  align-items: center;
+  padding: 0;
+  margin: 0 20px;
+}
+
+ #img-2, #img-3 {
+  border-style: solid;
+  border-width: 10px;
+  border-color: #06113C;
+  width: 200px;
+  height: 240px;
+  align-items: center;
+  padding: 0;
+  margin: 0 20px;
+}
+
+.about-me-1 {
+  margin: 50px 0;
+}
+
+.about-me-1-topic {
+  margin: 20px 0;
+}
+
+.about-me-2-topic {
+  margin: 30px 0 20px;
+}
+
+.about-me-3-topic {
+  margin: 50px 0 20px;
+}
+
+/* Education */
+
+#edu {
+  background-color: #EEEEEE;
+  padding: 50px 30%;
+  text-align: center;
+}
+
+.edu-img {
+  border-style: solid;
+  border-width: 10px;
+  border-color: #06113C;
+  width: 40vw;
+  margin-bottom: 40px
+}
+
+/* Experience */
+
+#exp {
+  background-color: #DDDDDD;
+  padding: 70px 20%;
+  text-align: center;
+}
+
+#exp-1, #exp-2, #exp-3 {
+  text-align: left;
+}
+
+/* Skill */
+
+#skill {
+  background-color: #EEEEEE;
+  padding: 70px 20%;
+  text-align: center;
+}
+
+.skill-card {
+  padding: 20px 20px;
+}
+
+/* Certification */
+
+#certificate {
+  background-color: #DDDDDD;
+  padding: 70px 20%;
+  text-align: center;
+}
+
+/* Activity */
+
+#activity {
+  background-color: #EEEEEE;
+  padding: 70px 20%;
+}
+
+.act-except {
+  text-align: center;
+}
+
+/* Footer */
+
+footer {
+  background-color: #DDDDDD;
+  padding: 40px 70px;
+  text-align: center;
+}
+
+.icon-link {
+  display: inline-block;
+  padding: 0 20px;
+}
+
+/* Contact */
+
+#contact {
+  background-color: #EEEEEE;
+  padding: 70px 20%;
+  text-align: center;
+}
